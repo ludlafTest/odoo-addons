@@ -21,5 +21,5 @@
     'data': [
         "views/sale_order_view.xml"
     ],
-    'license": "AGPL-3',
+    'license': 'AGPL-3',
 }
