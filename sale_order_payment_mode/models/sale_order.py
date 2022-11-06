@@ -11,4 +11,5 @@ class SaleOrder(models.Model):
             ("bank", "Bankn"),
             ("electronic", "Electronico"),
         ],
+        default="electronic",
     )
